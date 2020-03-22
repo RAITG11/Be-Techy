@@ -200,7 +200,7 @@ techcrunch.html
 </body>
 </html>
 ```
-For other 5 wesites do same.
+For other 5 websites do same.
 
 Add templates to settings.py. See below picture:
 
