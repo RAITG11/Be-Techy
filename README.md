@@ -1,4 +1,4 @@
-# Be-Techy(content aggregator)
+# Be-Techy(News aggregator)
 It is a web application which aggregates data (Technology news articles) from multiple websites. 
 
 ## Table of contents
